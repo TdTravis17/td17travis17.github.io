@@ -1,0 +1,31 @@
+/*Travis Caldwell
+	04/14/2023
+    Page 128 */
+
+    P, ul, li{
+        font-size: 20px;
+    }
+    
+   header{
+    background-color: rgb(3, 61, 61);
+    }
+
+    footer{
+        background-color: rgb(3, 61, 61);
+    }
+
+    a:link{
+        color: #09ff00;
+    }
+
+    a:visited {
+        color: #0011ff;
+    }
+
+    a:hover {
+        color: #ff0000;
+      }
+
+      a:active {
+        color: #00f7ff;
+      }
