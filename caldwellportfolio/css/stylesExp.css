@@ -1,0 +1,41 @@
+
+    .projectExamples {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .projectBox {
+        background: lightblue;
+        border: 1px solid #000000;
+        display:flex;
+        justify-content:space-evenly;
+        flex-wrap: wrap;
+        width: auto;
+        
+    }
+
+    .projectBox h4.course {
+        background:blue; 
+        color:white;
+        padding: 15px;
+    }
+
+    .projectBox img {
+        margin-bottom: 20px;
+    }
+
+    .projectBox a.button {
+        display: block;
+        width: 35%;
+        margin: 25px auto;
+        color: #FFFFFF;
+        background: blue;
+        text-align: center;
+        font-weight: bold;
+        text-decoration: none;
+        border-radius: 15px;
+        padding: 1px;
+    }
+    footer {
+        clear: left;
+    }
