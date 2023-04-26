@@ -1,0 +1,11 @@
+img{
+    padding: 30px;
+    transition-duration: 2s;
+    transition-property: width;
+    width: 20%;
+}
+img:hover{
+    width: 40%;
+}
+.ease{ transition-timing-function: ease-out;}
+    
